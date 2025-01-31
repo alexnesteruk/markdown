@@ -98,7 +98,8 @@ Remind me that **I'm brave, that I was made to do this, and that you're proud of
 
 - **Hydration & Entertainment**  
   - [  ] Water bottles  
-  - [  ] Laptop or tablet (downloaded movies or TV series)  
+  - [  ] Laptop or tablet (downloaded movies or TV series) 
+  - [  ] Gopro 
   - [  ] Kindle or book  
   - [  ] Phone chargers  
 
