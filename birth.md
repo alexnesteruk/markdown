@@ -183,7 +183,6 @@ Remind me that **I'm brave, that I was made to do this, and that you're proud of
 - **Wrist drop**  
 - **The Opening Blossom**  
 - **Favorite Place in Nature**  
-- **Blue Satin Ribbons**  
 - **Balloon**  
 - **Glove Relaxation**  
 - **The Depthometer**  
