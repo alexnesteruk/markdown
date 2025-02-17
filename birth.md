@@ -3,45 +3,35 @@
 ## Birth Preferences & Environment Setup  
 
 ### Environment at Home  
-- Curtains shut, lights dim  
-- Light candles  
-- Oil diffuser  
-- Birthing blanket  
-- Music on phone  
-- Affirmation posters up  
+- Curtains shut
+- lights dim  
 
 ### Environment in Car  
-- Eye mask  
-- Essential oil on tissue  
-- Birthing blanket  
+- Birthing blanket (any blanket from home)
 - Music on phone  
 
 ### Environment at Hospital  
 - Blinds shut, lights dim  
-- Oil diffuser  
 - Birthing blanket  
 - Music on phone  
-- Affirmation posters up  
 
-### Positions I Want to Try  
+### Positions to Try  
 - Leaning over birth ball  
 - Kneeling with head resting  
-- Sitting on the toilet  
-- Birthing stool  
+- Birthing stool
+- Hands and knees 
 
 ### My Favorite Affirmations  
 - *I turn my birthing over to my baby and my body*  
 - *Each surge brings my baby closer to me*  
 - *I trust in my ability to birth my baby*  
 
-### Favorite Essential Oil  
-- Lavender  
-
 ### HypnoBirthing Toolkit - Favorites  
 - Rainbow Relaxation MP3  
 - Affirmations MP3  
 - Light Touch Massage  
-- Ultimate Deepening (keyword, 3, 2, 1, 0)  
+- Glove
+- Arm Drop Anchor 
 - Acupressure  
 
 ### HypnoBirthing Toolkit - Backups  
@@ -51,20 +41,11 @@
 - Arm Drop Anchor  
 - Birth Companion's Reading  
 
-### My Favorite Visualizations  
-- Opening Blossom  
-- Blue Satin Ribbons  
-- Balloon  
-
 ### Other Things I Want to Try  
 - Heat pack  
 - Cool face washers  
 - Shower and bath  
 - Birth Ball  
-
-### My Favorite Mantras  
-- *Relax and open*  
-- *Love, love, love*  
 
 ### Birth Color  
 - **Purple**  
@@ -76,7 +57,7 @@
 - Support during delivery of placenta  
 
 ### What I Need From You  
-I need you to stay close to me as much as possible. I am happy if you need to take a break at any point, but please have all your jobs out of the way as soon as possible so we can concentrate on this journey together. I only need minor verbal support; I appreciate your physical presence more.  
+I need you to stay calm and be receptice and listen. 
 
 Please remind me to:  
 - Drink water  
@@ -100,6 +81,7 @@ Remind me that **I'm brave, that I was made to do this, and that you're proud of
   - [  ] Water bottles  
   - [  ] Laptop or tablet (downloaded movies or TV series) 
   - [  ] Gopro 
+  - [  ] Disposable Camera
   - [  ] Kindle or book  
   - [  ] Phone chargers  
 
@@ -137,7 +119,7 @@ Remind me that **I'm brave, that I was made to do this, and that you're proud of
 - **Remain at home** until surges are every **2-3 minutes AND/OR** surges are intense, require all concentration - **321 rule**.  
 
 ### Arrival at Hospital  
-- Give a copy of and discuss your birth preferences with your midwife or doctor.  
+- Give a copy of and discuss your birth preferences with your doctor.  
 - Put up **HypnoBirthing door sign**.  
 - Cover clock with **Opening Blossom Visualization**.  
 - Dim the lights, setup the room.  
