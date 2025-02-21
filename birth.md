@@ -63,6 +63,7 @@ Please remind me to:
 - Drink water  
 - Go to the toilet  
 - Change positions every hour  
+- Try Not to tense up
 
 I am happy if you take photos and videos.  
 
@@ -83,6 +84,7 @@ Remind me that **I'm brave, that I was made to do this, and that you're proud of
   - [  ] Gopro 
   - [  ] Disposable Camera
   - [  ] Kindle or book  
+  - [  ] Switch
   - [  ] Phone chargers  
 
 - **Dopp Kit (Toiletries)** *(Hygiene items for an overnight trip)*  
