@@ -57,7 +57,7 @@
 - Support during delivery of placenta  
 
 ### What I Need From You  
-I need you to stay calm and be receptice and listen. 
+I need you to stay calm and be receptive and listen. 
 
 Please remind me to:  
 - Drink water  
